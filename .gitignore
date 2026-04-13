@@ -1,0 +1,17 @@
+# API keys — never push this
+.env
+
+# Virtual environment — too large, not needed
+venv/
+
+# Python cache
+__pycache__/
+agent/__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
